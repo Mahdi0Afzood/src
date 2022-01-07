@@ -1,5 +1,5 @@
 package org.maktab;
-mmmmmmmmmmmmmmmmmmmmmmm
+mmmmm
 import java.sql.*;
 
 public class JdbcMain {
