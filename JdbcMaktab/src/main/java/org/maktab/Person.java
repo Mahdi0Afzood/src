@@ -1,7 +1,7 @@
 package org.maktab;
 
 import java.util.Date;
-mmmmmmmmm
+
 public class Person {
     private String nationalCode;
     private String firstName;
