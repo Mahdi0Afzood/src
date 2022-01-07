@@ -11,6 +11,7 @@ public class Main {
             Deposit nationalCode 1000
             Withdraw nationalCode 2000
          */
+        System.out.println("hello my friends!");
         System.out.println("Welcome to Maktab Bank! He He:).");
         System.out.println("Available Commands:");
         System.out.println("                AddCustomer firstname lastname nationalCode");
